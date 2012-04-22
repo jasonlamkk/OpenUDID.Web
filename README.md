@@ -2,6 +2,13 @@ OpenUDID.Web
 ============
 
 cross-browser per device unique identifier
+============
+
+<h4>Who is behind OpenUDID.NET</h4>
+
+<p>OpenUDID.Web is initiated by Jason Lam (co-founder WaveSpread Technology Limited) on 22/4/2012</p>
+
+============
 
 <h2>What is OpenUDID.Web</h2>
 
